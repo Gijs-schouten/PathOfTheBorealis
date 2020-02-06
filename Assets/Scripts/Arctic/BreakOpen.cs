@@ -2,6 +2,10 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/// <summary>
+/// simpel script voor het openen van de deur naar buiten met de crowbar
+/// </summary>
+
 public class BreakOpen : MonoBehaviour {
 	public Animator anim;
 

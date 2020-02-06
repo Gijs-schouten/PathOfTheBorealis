@@ -1,6 +1,10 @@
 ﻿using UnityEngine;
 using System.Collections;
 
+/// <summary>
+/// audio voor de keypad, hoeft er alleen po gegooid te worden en de sounds in te stellen
+/// </summary>
+
 public class Playsound : MonoBehaviour {
 	private AudioSource source;
 

@@ -2,6 +2,10 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/// <summary>
+/// breekt het ijs op de gate lock als je hem hit met een crowbar, speelt ook particle af
+/// </summary>
+
 public class LockBreak : MonoBehaviour {
 	public GameObject particleObject;
 	private ParticleSystem particle;

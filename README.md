@@ -1,4 +1,4 @@
-# poep of the fartealis
+# sorry jongens, miquel heeft de git verneukt
 
 Hoi allemaal voor de 3e keer, ik ga je uitleggen hoe je je project pusht naar deze git.
 

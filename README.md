@@ -1,4 +1,4 @@
-# PathOfTheBorealis
+# poep of the fartealis
 
 Hoi allemaal voor de 3e keer, ik ga je uitleggen hoe je je project pusht naar deze git.
 

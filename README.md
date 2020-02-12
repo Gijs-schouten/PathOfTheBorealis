@@ -1,4 +1,4 @@
-# sorry jongens, miquel heeft de git verneukt
+# Path of the Borealis
 
 Hoi allemaal voor de 3e keer, ik ga je uitleggen hoe je je project pusht naar deze git.
 

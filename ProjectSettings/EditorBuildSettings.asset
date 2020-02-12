@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/OceaanRemaster/OceaanRemaster.unity
+    guid: b36567d11f3ca1a4a96006a7e4609f4b
+  - enabled: 0
+    path: Assets/Packs/TFP/0)Demo/Forgotten Ravine DemoScene.unity
+    guid: 75be1d37921fe404f8f34573c6aadf65
+  m_configObjects: {}

@@ -147,6 +147,18 @@ public class PlayerStatemachine : MonoBehaviour
             StateMachine.currentState.FixedExecute();
     }
 
+    /*
+    public void SetIkState(PlayerState ikState)
+    {
+        for (int i = 0; i < IKCalibrator.iksToCalibrate.Count; i++)
+        {
+            if (IKCalibrator.iksToCalibrate[i].state == ikState)
+                IKCalibrator.iksToCalibrate[i].enabled = true;
+            else
+                IKCalibrator.iksToCalibrate[i].enabled = false;
+        }        
+    }
+    */
     private void OnTriggerEnter(Collider other)
     {
         if (other.CompareTag("Water"))

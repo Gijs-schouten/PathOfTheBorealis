@@ -17,7 +17,21 @@
 /[Aa]ssets/Models & Materials/
 /[Aa]ssets/SteamVR/
 /[Aa]ssets/DiggerData/
+/[Aa]ssets/Assets Jungle/
+/[Aa]ssets/Audio/
+/[Aa]ssets/Cabin/
+/[Aa]ssets/Editor/
 /[Aa]ssets/Models/
+/[Aa]ssets/NatureManufacture Assets/
+/[Aa]ssets/Plugins/
+/[Aa]ssets/PortalsPackage/
+/[Aa]ssets/Shadowball Games/
+/[Aa]ssets/SineVFX/
+/[Aa]ssets/SteamVR_Input/
+/[Aa]ssets/SteamVR_Resources/
+/[Aa]ssets/StreamingAssets/
+/[Aa]ssets/VRControllerOverlayKits/
+/[Aa]ssets/Wessel/
 
 # Uncomment this line if you wish to ignore the asset store tools plugin
 # /[Aa]ssets/AssetStoreTools*

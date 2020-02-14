@@ -1,4 +1,4 @@
-﻿﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Rendering.PostProcessing;
@@ -17,6 +17,12 @@ public class CamPostProcessing : MonoBehaviour
     {
         Instance = this;
         Volume = GetComponent<PostProcessVolume>();
+    private PlayerStatemachine Player;
+
+    private void Awake()
+    {
+        Instance = this;
+
         Player = transform.root.GetComponent<PlayerStatemachine>();
     }
 

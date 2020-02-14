@@ -12,10 +12,13 @@ namespace Valve.VR.InteractionSystem
         public int soundNumber;
         public float rotationIncrease;
         public float startTime = 0f;
+        bool spawned = false;
         bool isCrafting = false;
+        private bool backToHand = true;
         private bool mayCraft = false;
         private GameObject object1;
         private GameObject object2;
+        // private Vector3 test;
         private MeshCollider collider1;
         private MeshCollider collider2;
         private Rigidbody rb1;
@@ -24,15 +27,21 @@ namespace Valve.VR.InteractionSystem
         public GameObject part2;
         public GameObject part3;
         public GameObject Player;
+        private SoundManager sound;
         private Vector3 velocity = Vector3.zero;
         private Vector3 spawnPos;
         private Vector3 spawnPosParticle;
         private bool isHand1;
+        bool hand1Arrived;
+        bool hand2Arrived;
+        
 
         void Start()
         {
-             //hand1 = GetComponentInParent<Hand>();
-             //hand2 = GetComponentInParent<Hand>();
+        //    hand1 = GetComponentInParent<Hand>();
+           // hand2 = GetComponentInParent<Hand>();
+            // part = GameObject.Find("Particles").GetComponent<ParticleManager>();
+            //  sound = GameObject.Find("Sounds").GetComponent<SoundManager>();
         }
 
         void OnCollisionEnter(Collision collision)
@@ -76,6 +85,8 @@ namespace Valve.VR.InteractionSystem
                 isCrafting = true;
                 RecepeItemName crafting = object2.transform.GetComponent<RecepeItemName>();
                 RecepeItemName crafting2 = transform.GetComponent<RecepeItemName>();
+                RecipeCrafting crafting = object2.transform.GetComponent<RecipeCrafting>();
+                RecipeCrafting crafting2 = transform.GetComponent<RecipeCrafting>();
                 GameObject obj = CraftingRecepe.instance.CheckRecepe(crafting.itemName, crafting2.itemName);
                 if (obj != null)
                 {
@@ -96,7 +107,6 @@ namespace Valve.VR.InteractionSystem
                         collider2.enabled = false;
                         rb2.isKinematic = true;
                         rb1.isKinematic = true;
-
                         //Rotate and Lerp into other object
                         object1.transform.Rotate(startTime * -rotationIncrease, startTime * -rotationIncrease, startTime * -rotationIncrease);
                         object2.transform.Rotate(startTime * rotationIncrease, startTime * rotationIncrease, startTime * rotationIncrease);
@@ -104,6 +114,17 @@ namespace Valve.VR.InteractionSystem
                         object2.transform.position = Vector3.Lerp(object2.transform.position, spawnPos, .1f);
 
                         yield return new WaitForSecondsRealtime(1 / 60);
+                        /*   if (rotationIncrease <= 1)
+                           {
+                               mayCraft = false;
+                               StartCoroutine(BackToHand(object1, object2));;
+                           }
+                          if(spawned == false && startTime > 72)
+                          {
+                              spawned = true;
+                              part2 = (GameObject)Instantiate(part2, spawnPosParticle, Quaternion.identity);
+
+                          }*/
 
                     }
                     if (mayCraft)
@@ -124,6 +145,15 @@ namespace Valve.VR.InteractionSystem
                         Destroy(gameObject);                  
                         Destroy(part);
                         Destroy(part2, 1.3f);
+                        /*GameObject objectToAttach = GameObject.Instantiate(obj);
+                        objectToAttach.SetActive(true);
+                        hand1.AttachObject(objectToAttach, GrabTypes.Scripted);
+                        hand1.TriggerHapticPulse(800);*/
+                        Destroy(gameObject);                  
+                      //  objectToAttach.transform.localScale = obj.transform.localScale;
+                        Destroy(part);
+                        Destroy(part2, 1.3f);
+                        // Destroy(part2 , 1f);
                         Destroy(object1);
                         Destroy(object2);
                     }

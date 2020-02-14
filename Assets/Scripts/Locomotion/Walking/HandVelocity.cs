@@ -37,6 +37,9 @@ public class HandVelocity : MonoBehaviour
 
     [SerializeField] private AudioClip _ForestClip1, _ForestClip2, _ForestClip3, _IndoorClip1, _IndoorClip2, _IndoorClip3;
     private AudioSource _AudioSource1, _AudioSource2, _AudioSource3; 
+
+    private SteamVR_Action_Boolean Trigger = SteamVR_Input.GetAction<SteamVR_Action_Boolean>("InteractUI");
+    [HideInInspector] public SteamVR_Action_Boolean Grab = SteamVR_Input.GetAction<SteamVR_Action_Boolean>("GrabGrip");
     #endregion
 
     #region Public variables

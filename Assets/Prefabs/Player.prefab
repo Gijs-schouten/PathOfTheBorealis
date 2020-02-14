@@ -902,6 +902,7 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 3590542580197725821}
   m_Mesh: {fileID: 280779056027672391, guid: 7b057719f4d85cc4e8eca830b7b65c57, type: 3}
 --- !u!23 &3590542580197725816
@@ -910,16 +911,25 @@ MeshFilter:
   m_Mesh: {fileID: 280779056027672391, guid: 7b057719f4d85cc4e8eca830b7b65c57, type: 3}
 --- !u!23 &674493576532293923
 >>>>>>> origin/Cabin
+=======
+  m_GameObject: {fileID: 3590542580197725821}
+  m_Mesh: {fileID: 280779056027672391, guid: 7b057719f4d85cc4e8eca830b7b65c57, type: 3}
+--- !u!23 &3590542580197725816
+>>>>>>> origin/Oceaan_and_InnerEarth
 MeshRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 3590542580197725821}
 =======
   m_GameObject: {fileID: 674493576532293926}
 >>>>>>> origin/Cabin
+=======
+  m_GameObject: {fileID: 3590542580197725821}
+>>>>>>> origin/Oceaan_and_InnerEarth
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
@@ -953,26 +963,35 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!65 &3590542580197725823
 =======
 --- !u!65 &674493576532293924
 >>>>>>> origin/Cabin
+=======
+--- !u!65 &3590542580197725823
+>>>>>>> origin/Oceaan_and_InnerEarth
 BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 3590542580197725821}
 =======
   m_GameObject: {fileID: 674493576532293926}
 >>>>>>> origin/Cabin
+=======
+  m_GameObject: {fileID: 3590542580197725821}
+>>>>>>> origin/Oceaan_and_InnerEarth
   m_Material: {fileID: 0}
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!1 &3590542580209487551
 =======
@@ -994,6 +1013,9 @@ Rigidbody:
   m_CollisionDetection: 0
 --- !u!1 &674493576652644836
 >>>>>>> origin/Cabin
+=======
+--- !u!1 &3590542580209487551
+>>>>>>> origin/Oceaan_and_InnerEarth
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1002,10 +1024,14 @@ GameObject:
   serializedVersion: 6
   m_Component:
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
   - component: {fileID: 3590542580209487544}
   - component: {fileID: 3590542580209487547}
   - component: {fileID: 3590542580209487546}
   - component: {fileID: 3590542580209487545}
+<<<<<<< HEAD
 =======
   - component: {fileID: 674493576652644835}
   - component: {fileID: 674493576652644832}
@@ -1013,6 +1039,8 @@ GameObject:
   - component: {fileID: 674493576652644834}
   - component: {fileID: 2086102560}
 >>>>>>> origin/Cabin
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
   m_Layer: 0
   m_Name: Item Slot
   m_TagString: ItemSlot
@@ -1021,20 +1049,28 @@ GameObject:
   m_StaticEditorFlags: 0
   m_IsActive: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &3590542580209487544
 =======
 --- !u!4 &674493576652644835
 >>>>>>> origin/Cabin
+=======
+--- !u!4 &3590542580209487544
+>>>>>>> origin/Oceaan_and_InnerEarth
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 3590542580209487551}
 =======
   m_GameObject: {fileID: 674493576652644836}
 >>>>>>> origin/Cabin
+=======
+  m_GameObject: {fileID: 3590542580209487551}
+>>>>>>> origin/Oceaan_and_InnerEarth
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0.15, y: -0.3400018, z: -0.08099965}
   m_LocalScale: {x: 0.15, y: 0.15, z: 0.15}
@@ -1043,15 +1079,20 @@ Transform:
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!33 &3590542580209487547
 =======
 --- !u!33 &674493576652644832
 >>>>>>> origin/Cabin
+=======
+--- !u!33 &3590542580209487547
+>>>>>>> origin/Oceaan_and_InnerEarth
 MeshFilter:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 3590542580209487551}
   m_Mesh: {fileID: 280779056027672391, guid: 7b057719f4d85cc4e8eca830b7b65c57, type: 3}
@@ -1061,16 +1102,25 @@ MeshFilter:
   m_Mesh: {fileID: 280779056027672391, guid: 7b057719f4d85cc4e8eca830b7b65c57, type: 3}
 --- !u!23 &674493576652644833
 >>>>>>> origin/Cabin
+=======
+  m_GameObject: {fileID: 3590542580209487551}
+  m_Mesh: {fileID: 280779056027672391, guid: 7b057719f4d85cc4e8eca830b7b65c57, type: 3}
+--- !u!23 &3590542580209487546
+>>>>>>> origin/Oceaan_and_InnerEarth
 MeshRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 3590542580209487551}
 =======
   m_GameObject: {fileID: 674493576652644836}
 >>>>>>> origin/Cabin
+=======
+  m_GameObject: {fileID: 3590542580209487551}
+>>>>>>> origin/Oceaan_and_InnerEarth
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
@@ -1104,26 +1154,35 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!65 &3590542580209487545
 =======
 --- !u!65 &674493576652644834
 >>>>>>> origin/Cabin
+=======
+--- !u!65 &3590542580209487545
+>>>>>>> origin/Oceaan_and_InnerEarth
 BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 3590542580209487551}
 =======
   m_GameObject: {fileID: 674493576652644836}
 >>>>>>> origin/Cabin
+=======
+  m_GameObject: {fileID: 3590542580209487551}
+>>>>>>> origin/Oceaan_and_InnerEarth
   m_Material: {fileID: 0}
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!1 &3590542580464056906
 =======
@@ -1145,6 +1204,9 @@ Rigidbody:
   m_CollisionDetection: 0
 --- !u!1 &674493576951666350
 >>>>>>> origin/Cabin
+=======
+--- !u!1 &3590542580464056906
+>>>>>>> origin/Oceaan_and_InnerEarth
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1153,6 +1215,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
   - component: {fileID: 3590542580464056907}
   - component: {fileID: 3590542580464056918}
   - component: {fileID: 3590542580464056917}
@@ -1165,6 +1230,7 @@ GameObject:
   m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &3590542580464056907
+<<<<<<< HEAD
 =======
   - component: {fileID: 674493576951666342}
   - component: {fileID: 674493576951666343}
@@ -1179,12 +1245,17 @@ GameObject:
   m_IsActive: 0
 --- !u!4 &674493576951666342
 >>>>>>> origin/Cabin
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
   m_GameObject: {fileID: 3590542580464056906}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -0.15, y: -0.34000158, z: -0.081}
@@ -1194,6 +1265,7 @@ Transform:
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &3590542580464056918
+<<<<<<< HEAD
 =======
   m_GameObject: {fileID: 674493576951666350}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
@@ -1205,11 +1277,14 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &674493576951666343
 >>>>>>> origin/Cabin
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
 MeshFilter:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 3590542580464056906}
   m_Mesh: {fileID: 280779056027672391, guid: 7b057719f4d85cc4e8eca830b7b65c57, type: 3}
@@ -1219,16 +1294,25 @@ MeshFilter:
   m_Mesh: {fileID: -5003366202268185646, guid: abadccdf1f8e3544eb24fc9530871a13, type: 3}
 --- !u!23 &674493576951666344
 >>>>>>> origin/Cabin
+=======
+  m_GameObject: {fileID: 3590542580464056906}
+  m_Mesh: {fileID: 280779056027672391, guid: 7b057719f4d85cc4e8eca830b7b65c57, type: 3}
+--- !u!23 &3590542580464056917
+>>>>>>> origin/Oceaan_and_InnerEarth
 MeshRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 3590542580464056906}
 =======
   m_GameObject: {fileID: 674493576951666350}
 >>>>>>> origin/Cabin
+=======
+  m_GameObject: {fileID: 3590542580464056906}
+>>>>>>> origin/Oceaan_and_InnerEarth
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
@@ -1241,10 +1325,14 @@ MeshRenderer:
   m_RendererPriority: 0
   m_Materials:
 <<<<<<< HEAD
+<<<<<<< HEAD
   - {fileID: 2100000, guid: 3d924360aa6d70443b500edc4cec9b89, type: 2}
 =======
   - {fileID: 2100000, guid: 26a262e2eb165184f92bdaec4820bc33, type: 2}
 >>>>>>> origin/Cabin
+=======
+  - {fileID: 2100000, guid: 3d924360aa6d70443b500edc4cec9b89, type: 2}
+>>>>>>> origin/Oceaan_and_InnerEarth
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1266,17 +1354,25 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!65 &3590542580464056916
 BoxCollider:
 =======
 --- !u!64 &3680356426285749743
 MeshCollider:
 >>>>>>> origin/Cabin
+=======
+--- !u!65 &3590542580464056916
+BoxCollider:
+>>>>>>> origin/Oceaan_and_InnerEarth
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
   m_GameObject: {fileID: 3590542580464056906}
   m_Material: {fileID: 0}
   m_IsTrigger: 1
@@ -1285,6 +1381,7 @@ MeshCollider:
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &3590542581120399861
+<<<<<<< HEAD
 =======
   m_GameObject: {fileID: 674493576951666350}
   m_Material: {fileID: 0}
@@ -1296,6 +1393,8 @@ MeshCollider:
   m_Mesh: {fileID: -5003366202268185646, guid: abadccdf1f8e3544eb24fc9530871a13, type: 3}
 --- !u!1 &674493578122883568
 >>>>>>> origin/Cabin
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1304,6 +1403,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
   - component: {fileID: 3590542581120399869}
   - component: {fileID: 3590542581120399868}
   - component: {fileID: 3590542581120399859}
@@ -1316,6 +1418,7 @@ GameObject:
   m_StaticEditorFlags: 0
   m_IsActive: 0
 --- !u!4 &3590542581120399869
+<<<<<<< HEAD
 =======
   - component: {fileID: 674493578122883567}
   - component: {fileID: 674493578122883563}
@@ -1331,12 +1434,17 @@ GameObject:
   m_IsActive: 1
 --- !u!4 &674493578122883567
 >>>>>>> origin/Cabin
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
   m_GameObject: {fileID: 3590542581120399861}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
@@ -1346,6 +1454,7 @@ Transform:
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &3590542581120399868
+<<<<<<< HEAD
 =======
   m_GameObject: {fileID: 674493578122883568}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
@@ -1357,11 +1466,14 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &674493578122883563
 >>>>>>> origin/Cabin
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
 MeshFilter:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 3590542581120399861}
   m_Mesh: {fileID: -5003366202268185646, guid: abadccdf1f8e3544eb24fc9530871a13, type: 3}
@@ -1371,16 +1483,25 @@ MeshFilter:
   m_Mesh: {fileID: 280779056027672391, guid: 7b057719f4d85cc4e8eca830b7b65c57, type: 3}
 --- !u!23 &674493578122883564
 >>>>>>> origin/Cabin
+=======
+  m_GameObject: {fileID: 3590542581120399861}
+  m_Mesh: {fileID: -5003366202268185646, guid: abadccdf1f8e3544eb24fc9530871a13, type: 3}
+--- !u!23 &3590542581120399859
+>>>>>>> origin/Oceaan_and_InnerEarth
 MeshRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 3590542581120399861}
 =======
   m_GameObject: {fileID: 674493578122883568}
 >>>>>>> origin/Cabin
+=======
+  m_GameObject: {fileID: 3590542581120399861}
+>>>>>>> origin/Oceaan_and_InnerEarth
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
@@ -1393,10 +1514,14 @@ MeshRenderer:
   m_RendererPriority: 0
   m_Materials:
 <<<<<<< HEAD
+<<<<<<< HEAD
   - {fileID: 2100000, guid: 26a262e2eb165184f92bdaec4820bc33, type: 2}
 =======
   - {fileID: 2100000, guid: 3d924360aa6d70443b500edc4cec9b89, type: 2}
 >>>>>>> origin/Cabin
+=======
+  - {fileID: 2100000, guid: 26a262e2eb165184f92bdaec4820bc33, type: 2}
+>>>>>>> origin/Oceaan_and_InnerEarth
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1418,17 +1543,25 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!64 &836301231561538228
 MeshCollider:
 =======
 --- !u!65 &674493578122883565
 BoxCollider:
 >>>>>>> origin/Cabin
+=======
+--- !u!64 &836301231561538228
+MeshCollider:
+>>>>>>> origin/Oceaan_and_InnerEarth
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
   m_GameObject: {fileID: 3590542581120399861}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
@@ -1438,6 +1571,7 @@ BoxCollider:
   m_CookingOptions: 14
   m_Mesh: {fileID: -5003366202268185646, guid: abadccdf1f8e3544eb24fc9530871a13, type: 3}
 --- !u!1 &3590542581851631333
+<<<<<<< HEAD
 =======
   m_GameObject: {fileID: 674493578122883568}
   m_Material: {fileID: 0}
@@ -1464,6 +1598,8 @@ Rigidbody:
   m_CollisionDetection: 0
 --- !u!1 &674493578231857598
 >>>>>>> origin/Cabin
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1472,10 +1608,14 @@ GameObject:
   serializedVersion: 6
   m_Component:
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
   - component: {fileID: 3590542581851631334}
   - component: {fileID: 3590542581851631329}
   - component: {fileID: 3590542581851631328}
   - component: {fileID: 3590542581851631335}
+<<<<<<< HEAD
 =======
   - component: {fileID: 674493578231857597}
   - component: {fileID: 674493578231857594}
@@ -1483,6 +1623,8 @@ GameObject:
   - component: {fileID: 674493578231857596}
   - component: {fileID: 1655552503}
 >>>>>>> origin/Cabin
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
   m_Layer: 0
   m_Name: Item Slot
   m_TagString: ItemSlot
@@ -1491,20 +1633,28 @@ GameObject:
   m_StaticEditorFlags: 0
   m_IsActive: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &3590542581851631334
 =======
 --- !u!4 &674493578231857597
 >>>>>>> origin/Cabin
+=======
+--- !u!4 &3590542581851631334
+>>>>>>> origin/Oceaan_and_InnerEarth
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 3590542581851631333}
 =======
   m_GameObject: {fileID: 674493578231857598}
 >>>>>>> origin/Cabin
+=======
+  m_GameObject: {fileID: 3590542581851631333}
+>>>>>>> origin/Oceaan_and_InnerEarth
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0.15, y: -0.062002316, z: -0.08099965}
   m_LocalScale: {x: 0.15, y: 0.15, z: 0.15}
@@ -1513,15 +1663,20 @@ Transform:
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!33 &3590542581851631329
 =======
 --- !u!33 &674493578231857594
 >>>>>>> origin/Cabin
+=======
+--- !u!33 &3590542581851631329
+>>>>>>> origin/Oceaan_and_InnerEarth
 MeshFilter:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 3590542581851631333}
   m_Mesh: {fileID: 280779056027672391, guid: 7b057719f4d85cc4e8eca830b7b65c57, type: 3}
@@ -1531,16 +1686,25 @@ MeshFilter:
   m_Mesh: {fileID: 280779056027672391, guid: 7b057719f4d85cc4e8eca830b7b65c57, type: 3}
 --- !u!23 &674493578231857595
 >>>>>>> origin/Cabin
+=======
+  m_GameObject: {fileID: 3590542581851631333}
+  m_Mesh: {fileID: 280779056027672391, guid: 7b057719f4d85cc4e8eca830b7b65c57, type: 3}
+--- !u!23 &3590542581851631328
+>>>>>>> origin/Oceaan_and_InnerEarth
 MeshRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 3590542581851631333}
 =======
   m_GameObject: {fileID: 674493578231857598}
 >>>>>>> origin/Cabin
+=======
+  m_GameObject: {fileID: 3590542581851631333}
+>>>>>>> origin/Oceaan_and_InnerEarth
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
@@ -1574,26 +1738,35 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!65 &3590542581851631335
 =======
 --- !u!65 &674493578231857596
 >>>>>>> origin/Cabin
+=======
+--- !u!65 &3590542581851631335
+>>>>>>> origin/Oceaan_and_InnerEarth
 BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 3590542581851631333}
 =======
   m_GameObject: {fileID: 674493578231857598}
 >>>>>>> origin/Cabin
+=======
+  m_GameObject: {fileID: 3590542581851631333}
+>>>>>>> origin/Oceaan_and_InnerEarth
   m_Material: {fileID: 0}
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!1 &3590542582229180075
 =======
@@ -1615,6 +1788,9 @@ Rigidbody:
   m_CollisionDetection: 0
 --- !u!1 &1512165673403514759
 >>>>>>> origin/Cabin
+=======
+--- !u!1 &3590542582229180075
+>>>>>>> origin/Oceaan_and_InnerEarth
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1623,10 +1799,14 @@ GameObject:
   serializedVersion: 6
   m_Component:
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
   - component: {fileID: 3590542582229180084}
   - component: {fileID: 3590542582229180080}
   - component: {fileID: 3590542582229180087}
   - component: {fileID: 3590542582229180086}
+<<<<<<< HEAD
 =======
   - component: {fileID: 5758108463061136631}
   - component: {fileID: 6391270410201606981}
@@ -1719,6 +1899,8 @@ GameObject:
   - component: {fileID: 2695506376076645566}
   - component: {fileID: 1233246039}
 >>>>>>> origin/Cabin
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
   m_Layer: 0
   m_Name: Item Slot
   m_TagString: ItemSlot
@@ -1727,16 +1909,23 @@ GameObject:
   m_StaticEditorFlags: 0
   m_IsActive: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &3590542582229180084
 =======
 --- !u!4 &2695506376076645537
 >>>>>>> origin/Cabin
+=======
+--- !u!4 &3590542582229180084
+>>>>>>> origin/Oceaan_and_InnerEarth
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
   m_GameObject: {fileID: 3590542582229180075}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0.15, y: 0.16899805, z: -0.08099965}
@@ -1746,6 +1935,7 @@ Transform:
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &3590542582229180080
+<<<<<<< HEAD
 =======
   m_GameObject: {fileID: 2695506376076645536}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
@@ -1757,11 +1947,14 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &2695506376076645564
 >>>>>>> origin/Cabin
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
 MeshFilter:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 3590542582229180075}
   m_Mesh: {fileID: 280779056027672391, guid: 7b057719f4d85cc4e8eca830b7b65c57, type: 3}
@@ -1771,16 +1964,25 @@ MeshFilter:
   m_Mesh: {fileID: 280779056027672391, guid: 7b057719f4d85cc4e8eca830b7b65c57, type: 3}
 --- !u!23 &2695506376076645567
 >>>>>>> origin/Cabin
+=======
+  m_GameObject: {fileID: 3590542582229180075}
+  m_Mesh: {fileID: 280779056027672391, guid: 7b057719f4d85cc4e8eca830b7b65c57, type: 3}
+--- !u!23 &3590542582229180087
+>>>>>>> origin/Oceaan_and_InnerEarth
 MeshRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 3590542582229180075}
 =======
   m_GameObject: {fileID: 2695506376076645536}
 >>>>>>> origin/Cabin
+=======
+  m_GameObject: {fileID: 3590542582229180075}
+>>>>>>> origin/Oceaan_and_InnerEarth
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
@@ -1814,26 +2016,35 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!65 &3590542582229180086
 =======
 --- !u!65 &2695506376076645566
 >>>>>>> origin/Cabin
+=======
+--- !u!65 &3590542582229180086
+>>>>>>> origin/Oceaan_and_InnerEarth
 BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 3590542582229180075}
 =======
   m_GameObject: {fileID: 2695506376076645536}
 >>>>>>> origin/Cabin
+=======
+  m_GameObject: {fileID: 3590542582229180075}
+>>>>>>> origin/Oceaan_and_InnerEarth
   m_Material: {fileID: 0}
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!1 &4201586864456765917
 =======
@@ -1855,6 +2066,9 @@ Rigidbody:
   m_CollisionDetection: 0
 --- !u!1 &3710863496448937066
 >>>>>>> origin/Cabin
+=======
+--- !u!1 &4201586864456765917
+>>>>>>> origin/Oceaan_and_InnerEarth
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1863,6 +2077,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
   - component: {fileID: 4201586864456765914}
   - component: {fileID: 4201586864456765909}
   - component: {fileID: 4201586864456765908}
@@ -1871,6 +2088,7 @@ GameObject:
   - component: {fileID: 4201586864456765910}
   - component: {fileID: 4201586864456765912}
   - component: {fileID: 4201586864456765915}
+<<<<<<< HEAD
 =======
   - component: {fileID: 3710863496448598482}
   - component: {fileID: 3383187720557084479}
@@ -1881,6 +2099,8 @@ GameObject:
   - component: {fileID: 3383187720557084466}
   - component: {fileID: 3383187720557084465}
 >>>>>>> origin/Cabin
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
   m_Layer: 0
   m_Name: Backpack
   m_TagString: Untagged
@@ -1889,48 +2109,68 @@ GameObject:
   m_StaticEditorFlags: 0
   m_IsActive: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &4201586864456765914
 =======
 --- !u!4 &3710863496448598482
 >>>>>>> origin/Cabin
+=======
+--- !u!4 &4201586864456765914
+>>>>>>> origin/Oceaan_and_InnerEarth
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 4201586864456765917}
 =======
   m_GameObject: {fileID: 3710863496448937066}
 >>>>>>> origin/Cabin
+=======
+  m_GameObject: {fileID: 4201586864456765917}
+>>>>>>> origin/Oceaan_and_InnerEarth
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: -0.5}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
 <<<<<<< HEAD
+<<<<<<< HEAD
   - {fileID: 3590542581120399869}
 =======
   - {fileID: 674493576951666342}
 >>>>>>> origin/Cabin
+=======
+  - {fileID: 3590542581120399869}
+>>>>>>> origin/Oceaan_and_InnerEarth
   - {fileID: 4201586864892425764}
   m_Father: {fileID: 6734826276710013882}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!65 &4201586864456765909
 =======
 --- !u!65 &3383187720557084479
 >>>>>>> origin/Cabin
+=======
+--- !u!65 &4201586864456765909
+>>>>>>> origin/Oceaan_and_InnerEarth
 BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 4201586864456765917}
 =======
   m_GameObject: {fileID: 3710863496448937066}
 >>>>>>> origin/Cabin
+=======
+  m_GameObject: {fileID: 4201586864456765917}
+>>>>>>> origin/Oceaan_and_InnerEarth
   m_Material: {fileID: 0}
   m_IsTrigger: 1
   m_Enabled: 1
@@ -1938,20 +2178,28 @@ BoxCollider:
   m_Size: {x: 0.5, y: 0.7, z: 0.5}
   m_Center: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!114 &4201586864456765908
 =======
 --- !u!114 &3383187720557084478
 >>>>>>> origin/Cabin
+=======
+--- !u!114 &4201586864456765908
+>>>>>>> origin/Oceaan_and_InnerEarth
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 4201586864456765917}
 =======
   m_GameObject: {fileID: 3710863496448937066}
 >>>>>>> origin/Cabin
+=======
+  m_GameObject: {fileID: 4201586864456765917}
+>>>>>>> origin/Oceaan_and_InnerEarth
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: b93b6a877adcbf94c89a9d6e0c0e844d, type: 3}
@@ -1960,10 +2208,14 @@ MonoBehaviour:
   activateActionSetOnAttach:
     actionSetPath: 
 <<<<<<< HEAD
+<<<<<<< HEAD
   hideHandOnAttach: 0
 =======
   hideHandOnAttach: 1
 >>>>>>> origin/Cabin
+=======
+  hideHandOnAttach: 0
+>>>>>>> origin/Oceaan_and_InnerEarth
   hideSkeletonOnAttach: 0
   hideControllerOnAttach: 0
   handAnimationOnPickup: 0
@@ -2001,21 +2253,30 @@ MonoBehaviour:
   highlightOnHover: 1
   hideHighlight: []
 <<<<<<< HEAD
+<<<<<<< HEAD
   hoverPriority: 0
 --- !u!54 &4201586864456765911
 =======
 --- !u!54 &3383187720557084477
 >>>>>>> origin/Cabin
+=======
+  hoverPriority: 0
+--- !u!54 &4201586864456765911
+>>>>>>> origin/Oceaan_and_InnerEarth
 Rigidbody:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 4201586864456765917}
 =======
   m_GameObject: {fileID: 3710863496448937066}
 >>>>>>> origin/Cabin
+=======
+  m_GameObject: {fileID: 4201586864456765917}
+>>>>>>> origin/Oceaan_and_InnerEarth
   serializedVersion: 2
   m_Mass: 5
   m_Drag: 0
@@ -2026,36 +2287,51 @@ Rigidbody:
   m_Constraints: 112
   m_CollisionDetection: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!114 &4201586864456765906
 =======
 --- !u!114 &3383187720557084472
 >>>>>>> origin/Cabin
+=======
+--- !u!114 &4201586864456765906
+>>>>>>> origin/Oceaan_and_InnerEarth
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 4201586864456765917}
 =======
   m_GameObject: {fileID: 3710863496448937066}
 >>>>>>> origin/Cabin
+=======
+  m_GameObject: {fileID: 4201586864456765917}
+>>>>>>> origin/Oceaan_and_InnerEarth
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a406b21d93a1e1546a4f354bb9719800, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!114 &4201586864456765910
 =======
 --- !u!114 &3383187720557084476
 >>>>>>> origin/Cabin
+=======
+--- !u!114 &4201586864456765910
+>>>>>>> origin/Oceaan_and_InnerEarth
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
   m_GameObject: {fileID: 4201586864456765917}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -2141,9 +2417,12 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   interactable: {fileID: 0}
+<<<<<<< HEAD
   AttachHandCooldown: 0
   CheckDist: 0
   DetachDist: 0
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
 --- !u!114 &4201586864456765915
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2240,6 +2519,7 @@ MeshRenderer:
   m_SortingOrder: 0
 --- !u!65 &4201586864608799389
 BoxCollider:
+<<<<<<< HEAD
 =======
   m_GameObject: {fileID: 3710863496448937066}
   m_Enabled: 1
@@ -2253,11 +2533,16 @@ BoxCollider:
 --- !u!114 &3383187720557084466
 MonoBehaviour:
 >>>>>>> origin/Cabin
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
   m_GameObject: {fileID: 4201586864608799391}
   m_Material: {fileID: 0}
   m_IsTrigger: 1
@@ -2265,6 +2550,7 @@ MonoBehaviour:
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 =======
   m_GameObject: {fileID: 3710863496448937066}
   m_Enabled: 1
@@ -2329,6 +2615,8 @@ MonoBehaviour:
   antiFlip: []
   defaultHand: 1
 >>>>>>> origin/Cabin
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
 --- !u!1 &4201586864892425767
 GameObject:
   m_ObjectHideFlags: 0
@@ -2358,6 +2646,9 @@ Transform:
   m_LocalScale: {x: 0.7, y: 0.7, z: 0.7}
   m_Children:
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
   - {fileID: 4201586864608799388}
   - {fileID: 3590542582229180084}
   - {fileID: 3590542580197725822}
@@ -2365,6 +2656,7 @@ Transform:
   - {fileID: 3590542580464056907}
   - {fileID: 3590542580209487544}
   m_Father: {fileID: 4201586864456765914}
+<<<<<<< HEAD
 =======
   - {fileID: 2695506376076645537}
   - {fileID: 674493578122883567}
@@ -2374,6 +2666,8 @@ Transform:
   - {fileID: 674493576652644835}
   m_Father: {fileID: 3710863496448598482}
 >>>>>>> origin/Cabin
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &4201586864892425765
@@ -2389,10 +2683,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &6263886246508537116
 =======
 --- !u!1 &4778808393298643958
 >>>>>>> origin/Cabin
+=======
+--- !u!1 &6263886246508537116
+>>>>>>> origin/Oceaan_and_InnerEarth
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2401,10 +2699,14 @@ GameObject:
   serializedVersion: 6
   m_Component:
 <<<<<<< HEAD
+<<<<<<< HEAD
   - component: {fileID: 6263886246508910408}
 =======
   - component: {fileID: 4778808393299032482}
 >>>>>>> origin/Cabin
+=======
+  - component: {fileID: 6263886246508910408}
+>>>>>>> origin/Oceaan_and_InnerEarth
   m_Layer: 0
   m_Name: ObjectAttachmentPoint
   m_TagString: Untagged
@@ -2413,16 +2715,23 @@ GameObject:
   m_StaticEditorFlags: 0
   m_IsActive: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &6263886246508910408
 =======
 --- !u!4 &4778808393299032482
 >>>>>>> origin/Cabin
+=======
+--- !u!4 &6263886246508910408
+>>>>>>> origin/Oceaan_and_InnerEarth
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
   m_GameObject: {fileID: 6263886246508537116}
   m_LocalRotation: {x: 0.3812272, y: -0.08052153, z: 0.03335311, w: 0.9203639}
   m_LocalPosition: {x: -0.05199999, y: -0.0157, z: -0.11630082}
@@ -2432,6 +2741,7 @@ Transform:
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 135, y: 170, z: 180}
 --- !u!1 &6263886246508550788
+<<<<<<< HEAD
 =======
   m_GameObject: {fileID: 4778808393298643958}
   m_LocalRotation: {x: 0.08052154, y: -0.3812272, z: 0.9203639, w: 0.033353113}
@@ -2443,6 +2753,8 @@ Transform:
   m_LocalEulerAnglesHint: {x: 135, y: -170, z: 0}
 --- !u!1 &4778808393298670702
 >>>>>>> origin/Cabin
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2451,12 +2763,17 @@ GameObject:
   serializedVersion: 6
   m_Component:
 <<<<<<< HEAD
+<<<<<<< HEAD
   - component: {fileID: 6263886246508929602}
   - component: {fileID: 6263886246502147902}
 =======
   - component: {fileID: 4778808393299037352}
   - component: {fileID: 4778808393304836564}
 >>>>>>> origin/Cabin
+=======
+  - component: {fileID: 6263886246508929602}
+  - component: {fileID: 6263886246502147902}
+>>>>>>> origin/Oceaan_and_InnerEarth
   m_Layer: 0
   m_Name: ControllerHoverHighlight
   m_TagString: Untagged
@@ -2465,16 +2782,23 @@ GameObject:
   m_StaticEditorFlags: 0
   m_IsActive: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &6263886246508929602
 =======
 --- !u!4 &4778808393299037352
 >>>>>>> origin/Cabin
+=======
+--- !u!4 &6263886246508929602
+>>>>>>> origin/Oceaan_and_InnerEarth
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
   m_GameObject: {fileID: 6263886246508550788}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
@@ -2484,6 +2808,7 @@ Transform:
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &6263886246502147902
+<<<<<<< HEAD
 =======
   m_GameObject: {fileID: 4778808393298670702}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
@@ -2495,21 +2820,28 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &4778808393304836564
 >>>>>>> origin/Cabin
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 6263886246508550788}
 =======
   m_GameObject: {fileID: 4778808393298670702}
 >>>>>>> origin/Cabin
+=======
+  m_GameObject: {fileID: 6263886246508550788}
+>>>>>>> origin/Oceaan_and_InnerEarth
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8ca2cc563cc33f542a5d9f8f661184ba, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
 <<<<<<< HEAD
   highLightMaterial: {fileID: 2100000, guid: 7b939e5e799d98a469f594828ebab52e, type: 2}
   fireHapticsOnHightlight: 1
@@ -2519,6 +2851,11 @@ MonoBehaviour:
   fireHapticsOnHightlight: 1
 --- !u!1 &4778808393298839126
 >>>>>>> origin/Cabin
+=======
+  highLightMaterial: {fileID: 2100000, guid: 7b939e5e799d98a469f594828ebab52e, type: 2}
+  fireHapticsOnHightlight: 1
+--- !u!1 &6263886246508734652
+>>>>>>> origin/Oceaan_and_InnerEarth
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2527,10 +2864,14 @@ GameObject:
   serializedVersion: 6
   m_Component:
 <<<<<<< HEAD
+<<<<<<< HEAD
   - component: {fileID: 6263886246508919258}
 =======
   - component: {fileID: 4778808393299023664}
 >>>>>>> origin/Cabin
+=======
+  - component: {fileID: 6263886246508919258}
+>>>>>>> origin/Oceaan_and_InnerEarth
   m_Layer: 0
   m_Name: HoverPoint
   m_TagString: Untagged
@@ -2539,16 +2880,23 @@ GameObject:
   m_StaticEditorFlags: 0
   m_IsActive: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &6263886246508919258
 =======
 --- !u!4 &4778808393299023664
 >>>>>>> origin/Cabin
+=======
+--- !u!4 &6263886246508919258
+>>>>>>> origin/Oceaan_and_InnerEarth
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
   m_GameObject: {fileID: 6263886246508734652}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -0.051999986, y: -0.015699983, z: -0.11630082}
@@ -2558,6 +2906,7 @@ Transform:
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &6263886246508736900
+<<<<<<< HEAD
 =======
   m_GameObject: {fileID: 4778808393298839126}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
@@ -2569,6 +2918,8 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &4778808393298845550
 >>>>>>> origin/Cabin
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2577,12 +2928,17 @@ GameObject:
   serializedVersion: 6
   m_Component:
 <<<<<<< HEAD
+<<<<<<< HEAD
   - component: {fileID: 6263886246509018206}
   - component: {fileID: 6263886246502097426}
 =======
   - component: {fileID: 4778808393299120820}
   - component: {fileID: 4778808393304788216}
 >>>>>>> origin/Cabin
+=======
+  - component: {fileID: 6263886246509018206}
+  - component: {fileID: 6263886246502097426}
+>>>>>>> origin/Oceaan_and_InnerEarth
   m_Layer: 0
   m_Name: ControllerButtonHints
   m_TagString: Untagged
@@ -2591,50 +2947,69 @@ GameObject:
   m_StaticEditorFlags: 0
   m_IsActive: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &6263886246509018206
 =======
 --- !u!4 &4778808393299120820
 >>>>>>> origin/Cabin
+=======
+--- !u!4 &6263886246509018206
+>>>>>>> origin/Oceaan_and_InnerEarth
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 6263886246508736900}
 =======
   m_GameObject: {fileID: 4778808393298845550}
 >>>>>>> origin/Cabin
+=======
+  m_GameObject: {fileID: 6263886246508736900}
+>>>>>>> origin/Oceaan_and_InnerEarth
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
   m_Father: {fileID: 6734826276709990810}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &6263886246502097426
+<<<<<<< HEAD
 =======
   m_Father: {fileID: 6734826276710001772}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &4778808393304788216
 >>>>>>> origin/Cabin
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 6263886246508736900}
 =======
   m_GameObject: {fileID: 4778808393298845550}
 >>>>>>> origin/Cabin
+=======
+  m_GameObject: {fileID: 6263886246508736900}
+>>>>>>> origin/Oceaan_and_InnerEarth
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ea1001a6626353541ab4d4b39f4c3569, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
 <<<<<<< HEAD
   controllerMaterial: {fileID: 2100000, guid: 11b050e661ec0cf48a289a7266451e91, type: 2}
   flashColor: {r: 1, g: 0.9170069, b: 0.453, a: 0.709}
@@ -2739,6 +3114,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
 >>>>>>> origin/Cabin
+=======
+  controllerMaterial: {fileID: 2100000, guid: 11b050e661ec0cf48a289a7266451e91, type: 2}
+  flashColor: {r: 1, g: 0.9170069, b: 0.453, a: 0.709}
+  textHintPrefab: {fileID: 140952, guid: 5fa42bb9e52706a42b8a1eaf0b54326a, type: 3}
+  hapticFlash:
+    actionPath: /actions/default/out/Haptic
+    needsReinit: 0
+  autoSetWithControllerRangeOfMotion: 1
+  debugHints: 0
+>>>>>>> origin/Oceaan_and_InnerEarth
 --- !u!1 &6734400217898780140
 GameObject:
   m_ObjectHideFlags: 0
@@ -2783,6 +3168,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
+<<<<<<< HEAD
   texture: {fileID: 8400000, guid: 005ed5a6df2f5ff468efd6497d37fefa, type: 2}
 =======
   texture: {fileID: 0}
@@ -2790,12 +3176,18 @@ MonoBehaviour:
   curved: 1
   antialias: 1
   highquality: 1
+=======
+  texture: {fileID: 8400000, guid: 005ed5a6df2f5ff468efd6497d37fefa, type: 2}
+>>>>>>> origin/Oceaan_and_InnerEarth
   scale: 3
   distance: 1.25
   alpha: 1
   uvOffset: {x: 0, y: 0, z: 1, w: 1}
   mouseScale: {x: 1, y: 1}
+<<<<<<< HEAD
   curvedRange: {x: 1, y: 2}
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
   inputMethod: 0
 --- !u!1 &6734400219412661672
 GameObject:
@@ -2872,11 +3264,15 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
   - {fileID: 6263886246508919258}
   - {fileID: 6263886246508910408}
   - {fileID: 6263886246508929602}
   - {fileID: 6263886246509018206}
   - {fileID: 8605789154799214905}
+<<<<<<< HEAD
 =======
   - {fileID: 7954949563582420609}
   - {fileID: 7954949563582429203}
@@ -2885,6 +3281,8 @@ Transform:
   - {fileID: 5757153408051285602}
   - {fileID: 1377809063348985061}
 >>>>>>> origin/Cabin
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
   m_Father: {fileID: 6734826276710048614}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -2903,10 +3301,14 @@ MonoBehaviour:
   otherHand: {fileID: 6734826276721123032}
   handType: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
   trackedObject: {fileID: 0}
 =======
   trackedObject: {fileID: 6693451550659711748}
 >>>>>>> origin/Cabin
+=======
+  trackedObject: {fileID: 0}
+>>>>>>> origin/Oceaan_and_InnerEarth
   grabPinchAction:
     actionPath: /actions/default/in/GrabPinch
     needsReinit: 0
@@ -2921,12 +3323,17 @@ MonoBehaviour:
     needsReinit: 0
   useHoverSphere: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
   hoverSphereTransform: {fileID: 6263886246508919258}
   hoverSphereRadius: 0.075
 =======
   hoverSphereTransform: {fileID: 0}
   hoverSphereRadius: 0.05
 >>>>>>> origin/Cabin
+=======
+  hoverSphereTransform: {fileID: 6263886246508919258}
+  hoverSphereRadius: 0.075
+>>>>>>> origin/Oceaan_and_InnerEarth
   hoverLayerMask:
     serializedVersion: 2
     m_Bits: 4294967295
@@ -2934,11 +3341,15 @@ MonoBehaviour:
   useControllerHoverComponent: 1
   controllerHoverComponent: tip
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
   controllerHoverRadius: 0.15
   useFingerJointHover: 1
   fingerJointHover: 10
   fingerJointHoverRadius: 0.05
   objectAttachmentPoint: {fileID: 6263886246508910408}
+<<<<<<< HEAD
 =======
   controllerHoverRadius: 0.075
   useFingerJointHover: 1
@@ -2946,11 +3357,14 @@ MonoBehaviour:
   fingerJointHoverRadius: 0.025
   objectAttachmentPoint: {fileID: 7954949563582429203}
 >>>>>>> origin/Cabin
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
   noSteamVRFallbackCamera: {fileID: 0}
   noSteamVRFallbackMaxDistanceNoItem: 10
   noSteamVRFallbackMaxDistanceWithItem: 0.5
   renderModelPrefab: {fileID: 1000012617731570, guid: d07386f0ec952ec409dc7753bcf5746b,
     type: 3}
+<<<<<<< HEAD
 <<<<<<< HEAD
   renderModels: []
   mainRenderModel: {fileID: 0}
@@ -2962,6 +3376,14 @@ MonoBehaviour:
   spewDebugText: 0
   showDebugInteractables: 0
   twoHandGrab: 0
+=======
+  renderModels: []
+  mainRenderModel: {fileID: 0}
+  hoverhighlightRenderModel: {fileID: 0}
+  showDebugText: 0
+  spewDebugText: 0
+  showDebugInteractables: 0
+>>>>>>> origin/Oceaan_and_InnerEarth
 --- !u!114 &6693451550659711748
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3009,6 +3431,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hand: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   Grab:
     actionPath: /actions/default/in/GrabGrip
     needsReinit: 0
@@ -3024,6 +3447,11 @@ MonoBehaviour:
   _IndoorClip2: {fileID: 0}
   _IndoorClip3: {fileID: 0}
 >>>>>>> origin/Cabin
+=======
+  Grab:
+    actionPath: /actions/default/in/GrabGrip
+    needsReinit: 0
+>>>>>>> origin/Oceaan_and_InnerEarth
   Climbing: 0
   Swimming: 0
   Switched: 0
@@ -3158,11 +3586,15 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
   - {fileID: 6734826276710006176}
   - {fileID: 6734826276709995314}
   - {fileID: 6734826276710049336}
   - {fileID: 6734826276710065820}
   - {fileID: 9004600208506299715}
+<<<<<<< HEAD
 =======
   - {fileID: 4778808393299023664}
   - {fileID: 4778808393299032482}
@@ -3171,6 +3603,8 @@ Transform:
   - {fileID: 4935565928663992856}
   - {fileID: 1377809065105405249}
 >>>>>>> origin/Cabin
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
   m_Father: {fileID: 6734826276710048614}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -3189,10 +3623,14 @@ MonoBehaviour:
   otherHand: {fileID: 6734826276721172038}
   handType: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
   trackedObject: {fileID: 0}
 =======
   trackedObject: {fileID: 6693451551074782854}
 >>>>>>> origin/Cabin
+=======
+  trackedObject: {fileID: 0}
+>>>>>>> origin/Oceaan_and_InnerEarth
   grabPinchAction:
     actionPath: /actions/default/in/GrabPinch
     needsReinit: 0
@@ -3207,12 +3645,17 @@ MonoBehaviour:
     needsReinit: 0
   useHoverSphere: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
   hoverSphereTransform: {fileID: 6734826276710006176}
   hoverSphereRadius: 0.075
 =======
   hoverSphereTransform: {fileID: 0}
   hoverSphereRadius: 0.05
 >>>>>>> origin/Cabin
+=======
+  hoverSphereTransform: {fileID: 6734826276710006176}
+  hoverSphereRadius: 0.075
+>>>>>>> origin/Oceaan_and_InnerEarth
   hoverLayerMask:
     serializedVersion: 2
     m_Bits: 4294967295
@@ -3220,11 +3663,15 @@ MonoBehaviour:
   useControllerHoverComponent: 1
   controllerHoverComponent: tip
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
   controllerHoverRadius: 0.15
   useFingerJointHover: 1
   fingerJointHover: 10
   fingerJointHoverRadius: 0.05
   objectAttachmentPoint: {fileID: 6734826276709995314}
+<<<<<<< HEAD
 =======
   controllerHoverRadius: 0.075
   useFingerJointHover: 1
@@ -3232,11 +3679,14 @@ MonoBehaviour:
   fingerJointHoverRadius: 0.025
   objectAttachmentPoint: {fileID: 4778808393299032482}
 >>>>>>> origin/Cabin
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
   noSteamVRFallbackCamera: {fileID: 0}
   noSteamVRFallbackMaxDistanceNoItem: 10
   noSteamVRFallbackMaxDistanceWithItem: 0.5
   renderModelPrefab: {fileID: 1000011547835092, guid: 8ade79fed86bbd141926d1cd94c98457,
     type: 3}
+<<<<<<< HEAD
 <<<<<<< HEAD
   renderModels: []
   mainRenderModel: {fileID: 0}
@@ -3248,6 +3698,14 @@ MonoBehaviour:
   spewDebugText: 0
   showDebugInteractables: 0
   twoHandGrab: 0
+=======
+  renderModels: []
+  mainRenderModel: {fileID: 0}
+  hoverhighlightRenderModel: {fileID: 0}
+  showDebugText: 0
+  spewDebugText: 0
+  showDebugInteractables: 0
+>>>>>>> origin/Oceaan_and_InnerEarth
 --- !u!114 &6693451551074782854
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3295,6 +3753,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hand: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   Grab:
     actionPath: /actions/default/in/GrabGrip
     needsReinit: 0
@@ -3310,6 +3769,11 @@ MonoBehaviour:
   _IndoorClip2: {fileID: 0}
   _IndoorClip3: {fileID: 0}
 >>>>>>> origin/Cabin
+=======
+  Grab:
+    actionPath: /actions/default/in/GrabGrip
+    needsReinit: 0
+>>>>>>> origin/Oceaan_and_InnerEarth
   Climbing: 0
   Swimming: 0
   Switched: 0
@@ -3459,12 +3923,17 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_FirstSelected: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_sendNavigationEvents: 0
   m_DragThreshold: 0
 =======
   m_sendNavigationEvents: 1
   m_DragThreshold: 10
 >>>>>>> origin/Cabin
+=======
+  m_sendNavigationEvents: 0
+  m_DragThreshold: 0
+>>>>>>> origin/Oceaan_and_InnerEarth
 --- !u!114 &6734826276721100516
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3566,6 +4035,9 @@ MonoBehaviour:
   useControllerHoverComponent: 1
   controllerHoverComponent: tip
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
   controllerHoverRadius: 0.05
   useFingerJointHover: 1
   fingerJointHover: 10
@@ -3578,6 +4050,7 @@ MonoBehaviour:
   renderModels: []
   mainRenderModel: {fileID: 0}
   hoverhighlightRenderModel: {fileID: 0}
+<<<<<<< HEAD
 =======
   controllerHoverRadius: 0.075
   useFingerJointHover: 1
@@ -3594,6 +4067,11 @@ MonoBehaviour:
   spewDebugText: 0
   showDebugInteractables: 0
   twoHandGrab: 0
+=======
+  showDebugText: 0
+  spewDebugText: 0
+  showDebugInteractables: 0
+>>>>>>> origin/Oceaan_and_InnerEarth
 --- !u!54 &6734826276706624658
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -3611,6 +4089,9 @@ Rigidbody:
   m_Constraints: 0
   m_CollisionDetection: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
 --- !u!1 &6734826276709850462
 GameObject:
   m_ObjectHideFlags: 0
@@ -3692,8 +4173,11 @@ Transform:
   m_Father: {fileID: 6734826276710001772}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 =======
 >>>>>>> origin/Cabin
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
 --- !u!1 &6734826276709857796
 GameObject:
   m_ObjectHideFlags: 0
@@ -3741,10 +4225,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   initializeSteamVROnAwake: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
   doNotDestroy: 0
 =======
   doNotDestroy: 1
 >>>>>>> origin/Cabin
+=======
+  doNotDestroy: 0
+>>>>>>> origin/Oceaan_and_InnerEarth
   steamvr_render: {fileID: 0}
 --- !u!114 &6734826276721017670
 MonoBehaviour:
@@ -3788,6 +4276,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6734826276710114514}
   - component: {fileID: 6734826276711684056}
+<<<<<<< HEAD
   - component: {fileID: 8271412561048172308}
   - component: {fileID: 6734826276384129461}
   - component: {fileID: 6734826276721119630}
@@ -3798,6 +4287,11 @@ GameObject:
   - component: {fileID: 611517169}
 =======
 >>>>>>> origin/Cabin
+=======
+  - component: {fileID: 6734826276384129461}
+  - component: {fileID: 6734826276721119630}
+  - component: {fileID: 6734826276722227980}
+>>>>>>> origin/Oceaan_and_InnerEarth
   m_Layer: 8
   m_Name: VRCamera
   m_TagString: MainCamera
@@ -3863,6 +4357,7 @@ Camera:
   m_AllowDynamicResolution: 0
   m_ForceIntoRT: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_OcclusionCulling: 1
   m_StereoConvergence: 10
   m_StereoSeparation: 0.022
@@ -3926,6 +4421,12 @@ Behaviour:
   m_EditorClassIdentifier: 
 --- !u!114 &6734826276384129461
 >>>>>>> origin/Cabin
+=======
+  m_OcclusionCulling: 1
+  m_StereoConvergence: 10
+  m_StereoSeparation: 0.022
+--- !u!114 &6734826276384129461
+>>>>>>> origin/Oceaan_and_InnerEarth
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3934,6 +4435,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 6734826276709893404}
   m_Enabled: 1
   m_EditorHideFlags: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_Script: {fileID: 11500000, guid: 948f4100a11a5c24981795d21301da5c, type: 3}
   m_Name: 
@@ -3988,11 +4490,16 @@ MonoBehaviour:
   m_AfterStackBundles: []
 --- !u!114 &6003661987962364915
 =======
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
   m_Script: {fileID: 11500000, guid: 87edc4c98fdeafc42bdfb1a8ec0118ba, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!114 &6734826276721119630
+<<<<<<< HEAD
 >>>>>>> origin/Cabin
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -4001,6 +4508,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 6734826276709893404}
   m_Enabled: 1
   m_EditorHideFlags: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_Script: {fileID: 11500000, guid: 8b9a305e18de0c04dbd257a21cd47087, type: 3}
   m_Name: 
@@ -4013,18 +4521,24 @@ MonoBehaviour:
 --- !u!114 &611517169
 MonoBehaviour:
 =======
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
   m_Script: {fileID: 11500000, guid: 2ad1e469d4e3e04489f9a36419f1a4f8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!124 &6734826276722227980
 Behaviour:
+<<<<<<< HEAD
 >>>>>>> origin/Cabin
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6734826276709893404}
   m_Enabled: 1
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a79441f348de89743a2939f4d699eac1, type: 3}
@@ -4047,6 +4561,8 @@ Behaviour:
   m_RequiresDepthTexture: 0
   m_RequiresColorTexture: 0
   m_Version: 2
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
 --- !u!1 &6734826276709900030
 GameObject:
   m_ObjectHideFlags: 0
@@ -4092,8 +4608,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   highLightMaterial: {fileID: 2100000, guid: 7b939e5e799d98a469f594828ebab52e, type: 2}
   fireHapticsOnHightlight: 1
+<<<<<<< HEAD
 =======
 >>>>>>> origin/Cabin
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
 --- !u!1 &6734826276709904870
 GameObject:
   m_ObjectHideFlags: 0
@@ -4327,15 +4846,22 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
+<<<<<<< HEAD
   borderThickness: -0.07
 =======
   borderThickness: 0.15
 >>>>>>> origin/Cabin
+=======
+  borderThickness: -0.07
+>>>>>>> origin/Oceaan_and_InnerEarth
   wireframeHeight: 2
   drawWireframeWhenSelectedOnly: 0
   drawInGame: 1
   size: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
   color: {r: 0, g: 1, b: 1, a: 0.922}
   vertices:
   - {x: 1.0000002, y: 0.01, z: -1.0000002}
@@ -4346,10 +4872,13 @@ MonoBehaviour:
   - {x: -0.93000025, y: 0.01, z: -0.93000025}
   - {x: -0.93000025, y: 0.01, z: 0.93000025}
   - {x: 0.93000025, y: 0.01, z: 0.93000025}
+<<<<<<< HEAD
 =======
   color: {r: 0, g: 1, b: 1, a: 1}
   vertices: []
 >>>>>>> origin/Cabin
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
 --- !u!1 &6734826276709911738
 GameObject:
   m_ObjectHideFlags: 0
@@ -4378,10 +4907,14 @@ Transform:
   m_GameObject: {fileID: 6734826276709911738}
   m_LocalRotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LocalPosition: {x: 5.83, y: 3.57, z: -13.65}
 =======
   m_LocalPosition: {x: 207.40105, y: 95.181335, z: 253.0151}
 >>>>>>> origin/Cabin
+=======
+  m_LocalPosition: {x: 5.83, y: 3.57, z: -13.65}
+>>>>>>> origin/Oceaan_and_InnerEarth
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 6734826276710048614}
@@ -4409,16 +4942,22 @@ MonoBehaviour:
   hmdTransforms:
   - {fileID: 6734826276710114514}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
   - {fileID: 6734826276710055288}
   hands:
   - {fileID: 6734826276721123032}
   - {fileID: 6734826276721172038}
   - {fileID: 6734826276721002222}
+<<<<<<< HEAD
 =======
   hands:
   - {fileID: 6734826276721123032}
   - {fileID: 6734826276721172038}
 >>>>>>> origin/Cabin
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
   headCollider: {fileID: 6734826276714834292}
   rigSteamVR: {fileID: 6734826276709914396}
   rig2DFallback: {fileID: 6734826276709921384}
@@ -4427,10 +4966,14 @@ MonoBehaviour:
     actionPath: /actions/default/in/HeadsetOnHead
     needsReinit: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   allowToggleTo2D: 0
 =======
   allowToggleTo2D: 1
 >>>>>>> origin/Cabin
+=======
+  allowToggleTo2D: 0
+>>>>>>> origin/Oceaan_and_InnerEarth
 --- !u!114 &6734826276709911739
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4457,23 +5000,32 @@ MonoBehaviour:
   RightHandSwimPose: {fileID: 0}
   Climber: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   MovementSpeed: 0.25
   SwimmingSpeed: 1.5
 =======
   MovementSpeed: 2
   SwimmingSpeed: 1
 >>>>>>> origin/Cabin
+=======
+  MovementSpeed: 0.25
+  SwimmingSpeed: 1.5
+>>>>>>> origin/Oceaan_and_InnerEarth
   OldGravity: 0
   Velocity: {x: 0, y: 0, z: 0}
   MovementInput: {x: 0, y: 0, z: 0}
   SwimmingInput: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
   WorldHeight: 0
   JumpHeight: 5
   WaterPlanes: []
   SceneButton:
     actionPath: /actions//in/SwitchScene
     needsReinit: 1
+<<<<<<< HEAD
 =======
   FloatingAboveWater: 0
   WorldHeight: 0
@@ -4483,6 +5035,8 @@ MonoBehaviour:
   _WaterState: 0
   _FootstepType: 0
 >>>>>>> origin/Cabin
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
 --- !u!143 &6734826276136400982
 CharacterController:
   m_ObjectHideFlags: 0
@@ -4628,6 +5182,9 @@ MonoBehaviour:
   shiftSpeed: 16
   showInstructions: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
 --- !u!1 &6734826276709917030
 GameObject:
   m_ObjectHideFlags: 0
@@ -4658,8 +5215,11 @@ Transform:
   m_Father: {fileID: 6734826276710001772}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 135, y: -170, z: 0}
+<<<<<<< HEAD
 =======
 >>>>>>> origin/Cabin
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
 --- !u!1 &6734826276709918140
 GameObject:
   m_ObjectHideFlags: 0
@@ -4690,10 +5250,14 @@ Transform:
   m_Children:
   - {fileID: 6734826276710089430}
 <<<<<<< HEAD
+<<<<<<< HEAD
   - {fileID: 4201586864456765914}
 =======
   - {fileID: 3710863496448598482}
 >>>>>>> origin/Cabin
+=======
+  - {fileID: 4201586864456765914}
+>>>>>>> origin/Oceaan_and_InnerEarth
   m_Father: {fileID: 6734826276710114514}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -4738,10 +5302,14 @@ Transform:
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &8605789154799214906
 =======
 --- !u!1 &7954949563582526943
 >>>>>>> origin/Cabin
+=======
+--- !u!1 &8605789154799214906
+>>>>>>> origin/Oceaan_and_InnerEarth
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -4750,20 +5318,27 @@ GameObject:
   serializedVersion: 6
   m_Component:
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
   - component: {fileID: 8605789154799214905}
   - component: {fileID: 836301231446164530}
   m_Layer: 0
   m_Name: HandFollow
+<<<<<<< HEAD
 =======
   - component: {fileID: 7954949563582401817}
   - component: {fileID: 7954949563588266085}
   m_Layer: 0
   m_Name: ControllerHoverHighlight
 >>>>>>> origin/Cabin
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_IsActive: 1
 --- !u!4 &8605789154799214905
@@ -4771,12 +5346,19 @@ GameObject:
   m_IsActive: 0
 --- !u!4 &7954949563582401817
 >>>>>>> origin/Cabin
+=======
+  m_IsActive: 1
+--- !u!4 &8605789154799214905
+>>>>>>> origin/Oceaan_and_InnerEarth
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
   m_GameObject: {fileID: 8605789154799214906}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0.03, y: 0.03, z: -0.15}
@@ -4786,6 +5368,7 @@ Transform:
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &836301231446164530
+<<<<<<< HEAD
 =======
   m_GameObject: {fileID: 7954949563582526943}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
@@ -4797,12 +5380,17 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &7954949563588266085
 >>>>>>> origin/Cabin
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
   m_GameObject: {fileID: 8605789154799214906}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -4810,6 +5398,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &9004600207977239605
+<<<<<<< HEAD
 =======
   m_GameObject: {fileID: 7954949563582526943}
   m_Enabled: 1
@@ -4821,6 +5410,8 @@ MonoBehaviour:
   fireHapticsOnHightlight: 1
 --- !u!1 &7954949563582532167
 >>>>>>> origin/Cabin
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -4829,6 +5420,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
   - component: {fileID: 9004600207977239604}
   m_Layer: 0
   m_Name: HeadFollow
@@ -4838,6 +5432,7 @@ GameObject:
   m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &9004600207977239604
+<<<<<<< HEAD
 =======
   - component: {fileID: 7954949563582429203}
   m_Layer: 0
@@ -4849,12 +5444,17 @@ GameObject:
   m_IsActive: 0
 --- !u!4 &7954949563582429203
 >>>>>>> origin/Cabin
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
   m_GameObject: {fileID: 9004600207977239605}
   m_LocalRotation: {x: 0.579228, y: -0.4055798, z: -0.579228, w: 0.4055798}
   m_LocalPosition: {x: 0, y: -0.075, z: -0.125}
@@ -4864,6 +5464,7 @@ Transform:
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: -90, z: -110}
 --- !u!1 &9004600208506299712
+<<<<<<< HEAD
 =======
   m_GameObject: {fileID: 7954949563582532167}
   m_LocalRotation: {x: 0.3812272, y: -0.08052153, z: 0.03335311, w: 0.9203639}
@@ -4905,6 +5506,8 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &7954949563582734047
 >>>>>>> origin/Cabin
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -4913,20 +5516,27 @@ GameObject:
   serializedVersion: 6
   m_Component:
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
   - component: {fileID: 9004600208506299715}
   - component: {fileID: 1783119944}
   m_Layer: 0
   m_Name: HandFollow
+<<<<<<< HEAD
 =======
   - component: {fileID: 7954949563582452485}
   - component: {fileID: 7954949563588185417}
   m_Layer: 0
   m_Name: ControllerButtonHints
 >>>>>>> origin/Cabin
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_IsActive: 1
 --- !u!4 &9004600208506299715
@@ -4934,43 +5544,61 @@ GameObject:
   m_IsActive: 0
 --- !u!4 &7954949563582452485
 >>>>>>> origin/Cabin
+=======
+  m_IsActive: 1
+--- !u!4 &9004600208506299715
+>>>>>>> origin/Oceaan_and_InnerEarth
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 9004600208506299712}
 =======
   m_GameObject: {fileID: 7954949563582734047}
 >>>>>>> origin/Cabin
+=======
+  m_GameObject: {fileID: 9004600208506299712}
+>>>>>>> origin/Oceaan_and_InnerEarth
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
   m_Father: {fileID: 6734826276710001772}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1783119944
+<<<<<<< HEAD
 =======
   m_Father: {fileID: 6734826276709990810}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &7954949563588185417
 >>>>>>> origin/Cabin
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth
   m_GameObject: {fileID: 9004600208506299712}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: b3803f2311d3ce1418036f48ccd14eb1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
 =======
   m_GameObject: {fileID: 7954949563582734047}
   m_Enabled: 1
@@ -5522,3 +6150,5 @@ ParticleSystem:
   m_PrefabInstance: {fileID: 1377809065105534913}
   m_PrefabAsset: {fileID: 0}
 >>>>>>> origin/Cabin
+=======
+>>>>>>> origin/Oceaan_and_InnerEarth

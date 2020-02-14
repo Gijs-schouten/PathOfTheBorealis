@@ -16,4 +16,9 @@ EditorBuildSettings:
     guid: 1bdb9dc755955bb41b5f420e1e458d3a
     path: Assets/Scenes/Cabin 2.unity
     guid: 2f604cb31ad4b97469e49f10718ad001
+    path: Assets/Scenes/OceaanRemaster/OceaanRemaster.unity
+    guid: b36567d11f3ca1a4a96006a7e4609f4b
+  - enabled: 0
+    path: Assets/Packs/TFP/0)Demo/Forgotten Ravine DemoScene.unity
+    guid: 75be1d37921fe404f8f34573c6aadf65
   m_configObjects: {}

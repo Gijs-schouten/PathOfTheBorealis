@@ -67,6 +67,7 @@ public class ViseScript : MonoBehaviour
 
     public void AttachPin()
     {
+        //RotationPin.transform.position = PinHolder.transform.position;
         RotationPin.transform.position = new Vector3(2.130911f, 0.2412276f, 0.433f);
 
         RotationPin.transform.eulerAngles = new Vector3(1, 90, 0);

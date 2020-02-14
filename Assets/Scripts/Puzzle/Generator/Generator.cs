@@ -12,6 +12,7 @@ public class Generator : MonoBehaviour
     [SerializeField] FuseBoxManager FuseboxScript;
 
     [SerializeField] private Jerrycan JerrycanObject;
+    private Jerrycan JerrycanObject;
     private Animator GeneratorAnimator;
 
     private bool CanPressButton;
@@ -44,5 +45,11 @@ public class Generator : MonoBehaviour
         }
 
         GeneratorAnimator.SetTrigger("IsActivated");
+    }
+
+    public void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.Space))
+            ActivatePower();
     }
 }

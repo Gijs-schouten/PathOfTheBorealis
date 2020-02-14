@@ -19,6 +19,12 @@ public class LoadingSceneScript : MonoBehaviour
     /// <summary>
     /// Dit zorgt voor een zwart scherm met het woord "LOADING" in plaats van de laad-particles.
     /// </summary>
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+            EnableNormalLoading();
+        }
+    }
+
     private void EnableNormalLoading()
     {
         LoadingParticles.SetActive(false);

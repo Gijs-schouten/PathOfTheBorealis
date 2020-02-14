@@ -121,16 +121,16 @@ public class FuseBoxManager : MonoBehaviour
         if(other.gameObject.name == MissingFuse.name && FuseMissing)
         {
             //Remove the object from hand
-            //Hand[] _hands = FindObjectOfType<Player>().GetComponentsInChildren<Hand>();
+            Hand[] _hands = FindObjectOfType<Player>().GetComponentsInChildren<Hand>();
 
-            //foreach (Hand _hand in _hands)
-            //{
-            //    if (_hand.ObjectIsAttached(MissingFuse.gameObject))
-            //    {
-            //        _hand.DetachObject(MissingFuse.gameObject);
-            //        break;
-            //    }
-            //}
+            foreach (Hand _hand in _hands)
+            {
+                if (_hand.ObjectIsAttached(MissingFuse.gameObject))
+                {
+                    _hand.DetachObject(MissingFuse.gameObject);
+                    break;
+                }
+            }
 
             Destroy(MissingFuseThrowable);
             Destroy(MissingFuseVelocity);

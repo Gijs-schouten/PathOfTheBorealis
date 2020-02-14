@@ -32,6 +32,7 @@ public class Paddle : MonoBehaviour
         if(ClosestHand != null && FurthestHand != null)
         {
             float oceanHeight = 0;//Manager.Water.GetWaterHeightAtLocation(transform.position.x, transform.position.z);
+            float oceanHeight = Manager.Water.GetWaterHeightAtLocation(transform.position.x, transform.position.z);
             float height = transform.position.y;
 
             if (height > oceanHeight)

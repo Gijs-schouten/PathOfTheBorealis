@@ -17,8 +17,8 @@ public class PaddleManager : MonoBehaviour
     private Rigidbody Rb;
     private BoxCollider Collider;
     private Interactable Interactable;
-    //private CenterOfMass COM;
-    //[HideInInspector] public WaterInterface Water;
+    private CenterOfMass COM;
+    [HideInInspector] public WaterInterface Water;
 
     public GameObject BoatRear;
     public GameObject BoatFront;
@@ -42,8 +42,8 @@ public class PaddleManager : MonoBehaviour
         Collider = GetComponent<BoxCollider>();
         Rb = GetComponent<Rigidbody>();
         Interactable = GetComponent<Interactable>();
-        //Water = GetComponent<WaterInterface>();
-        //COM = GetComponent<CenterOfMass>();
+        Water = GetComponent<WaterInterface>();
+        COM = GetComponent<CenterOfMass>();
         LeftHand = Player.LeftHand;
         RightHand = Player.RightHand;
     }

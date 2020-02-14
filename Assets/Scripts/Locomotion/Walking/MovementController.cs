@@ -31,7 +31,10 @@ public class MovementController : IState
         Owner.MovementInput = Vector3.SmoothDamp(Owner.MovementInput, Vector3.zero, ref RefInputVel, 1);
         Owner.OldGravity = Owner.Velocity.y;
         Owner.Velocity = Camera.main.transform.TransformDirection(Owner.MovementInput);
-        Owner.AddGravity(PlayerState.Walking);
+        if (!Owner.FloatingAboveWater)
+            Owner.AddGravity(PlayerState.Walking);
+        else
+            Owner.Velocity = Vector3.zero;
 
         if (RotateRight.GetStateDown(SteamVR_Input_Sources.RightHand))
         {
@@ -39,7 +42,7 @@ public class MovementController : IState
         }
         if (RotateLeft.GetStateDown(SteamVR_Input_Sources.RightHand))
         {
-            Owner.transform.eulerAngles -= new Vector3(0, 30, 0);
+            Owner.transform.eulerAngles -= new Vector3(0, 30, 0); 
         }
     }
 

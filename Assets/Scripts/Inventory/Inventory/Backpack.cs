@@ -74,6 +74,7 @@ public class Backpack : MonoBehaviour
             Rb.isKinematic = false;
             Rb.useGravity = true;
             Collider.enabled = true;
+            transform.rotation = Quaternion.identity;
         }
     }
 

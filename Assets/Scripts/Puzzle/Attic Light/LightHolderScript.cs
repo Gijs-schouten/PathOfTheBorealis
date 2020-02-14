@@ -6,6 +6,16 @@ public class LightHolderScript : MonoBehaviour
 {
     [SerializeField] private GameObject LightObject;
 
+    void Start()
+    {
+        
+    }
+
+    void Update()
+    {
+        
+    }
+
     private void OnTriggerEnter(Collider other)
     {
         if(other.gameObject == LightObject)

@@ -7,6 +7,7 @@ public enum ParticleEnum
     SwimBubbles,
     BreathBubbles,
     WaterSplash
+    StreamBubbles
 }
 
 public class PoolManager : MonoBehaviour

@@ -77,6 +77,8 @@ public class CraftingOnCollision : MonoBehaviour
             isCrafting = true;
             RecipeCrafting crafting = object2.transform.GetComponent<RecipeCrafting>();
             RecipeCrafting crafting2 = transform.GetComponent<RecipeCrafting>();
+            RecepeItemName crafting = object2.transform.GetComponent<RecepeItemName>();
+            RecepeItemName crafting2 = transform.GetComponent<RecepeItemName>();
             GameObject obj = CraftingRecepe.instance.CheckRecepe(crafting.itemName, crafting2.itemName);
             if (obj != null)
             {

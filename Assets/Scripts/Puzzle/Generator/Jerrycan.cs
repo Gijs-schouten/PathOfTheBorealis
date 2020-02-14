@@ -40,6 +40,7 @@ public class Jerrycan : MonoBehaviour
     {
         IsEmpty = true;
         Debug.Log("geef fueel");
+
         GeneratorObject.RecieveFuel();
     }
 }

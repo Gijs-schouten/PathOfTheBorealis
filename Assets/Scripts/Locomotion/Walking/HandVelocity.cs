@@ -30,9 +30,13 @@ public class HandVelocity : MonoBehaviour
     private List<Vector3> LastFramesVel = new List<Vector3>();
     private HandVelocity OtherHandVel;
     private WallDetection DetectWall;
+    [SerializeField] private ParticleSystem WaterParticles;
 
     private SteamVR_Action_Boolean Trigger = SteamVR_Input.GetAction<SteamVR_Action_Boolean>("InteractUI");
     [HideInInspector] public SteamVR_Action_Boolean Grab = SteamVR_Input.GetAction<SteamVR_Action_Boolean>("GrabGrip");
+
+    [SerializeField] private AudioClip _ForestClip1, _ForestClip2, _ForestClip3, _IndoorClip1, _IndoorClip2, _IndoorClip3;
+    private AudioSource _AudioSource1, _AudioSource2, _AudioSource3; 
     #endregion
 
     #region Public variables
@@ -53,6 +57,10 @@ public class HandVelocity : MonoBehaviour
         LastFrameHand = transform.localPosition;
         StartingTransform = transform.localPosition;
         DetectWall = transform.parent.GetComponentInChildren<WallDetection>();
+        _AudioSource1 = gameObject.AddComponent<AudioSource>();
+        _AudioSource2 = gameObject.AddComponent<AudioSource>();
+        _AudioSource3 = gameObject.AddComponent<AudioSource>();
+
     } 
 
     private void Update()
@@ -111,10 +119,46 @@ public class HandVelocity : MonoBehaviour
                 CurrentVelocityInt = Mathf.RoundToInt(Vector3.Dot(StartVelocity, handVelocity));
                 CurrentVelocityInt = Mathf.Clamp(CurrentVelocityInt, -10, 10);
 
+                switch (StateMachine._FootstepType)
+                {
+                    case FootstepType.Forest:
+
+                        _AudioSource1.clip = _ForestClip1;
+                        _AudioSource2.clip = _ForestClip2;
+                        _AudioSource3.clip = _ForestClip3;
+
+                        break;
+                    case FootstepType.Indoors:
+
+                        _AudioSource1.clip = _IndoorClip1;
+                        _AudioSource2.clip = _IndoorClip2;
+                        _AudioSource3.clip = _IndoorClip3;
+
+                        break;
+                }
+
+                if(CurrentVelocityInt == 1 || CurrentVelocityInt == -1)
+                {
+                    if(!_AudioSource1.isPlaying)
+                        _AudioSource1.Play();
+                }
+                if(CurrentVelocityInt == 2 || CurrentVelocityInt == -2)
+                {
+                    if (!_AudioSource2.isPlaying)
+                        _AudioSource2.Play();
+                }
+                if (CurrentVelocityInt == 3 || CurrentVelocityInt == -3)
+                {
+                    if (!_AudioSource3.isPlaying)
+                        _AudioSource3.Play();
+                }
+
                 if (CurrentVelocityInt != 0)
                 {
                     StateMachine.MovementInput += new Vector3(0, 0, Mathf.Abs(CurrentVelocityInt)) * Time.deltaTime;
                     CurrentVelocityInt = 0;
+                    
+                    
                 }
             }
             else
@@ -132,18 +176,21 @@ public class HandVelocity : MonoBehaviour
         {
             if (Grab.GetState(hand.trackedObject.inputSource))
             {
-                if(Swimming)
+                PlayStream();
+                if (Swimming)
                 {
                     if (LastFramesVel.Count > 0)
                         LastFramesVel.Insert(0, LastFrameHand);
                     if (LastFramesVel.Count > VelocityLogSize)
                         LastFramesVel.RemoveAt(VelocityLogSize);
+                    
                 }
                 else
                 {
                     LastFrameHand = transform.localPosition;
                     LastFramesVel.Add(LastFrameHand);
                     Swimming = true;
+                    
                 }
 
                 SwimVelocity = (LastFrameHand - transform.localPosition);
@@ -168,5 +215,10 @@ public class HandVelocity : MonoBehaviour
         }
 
         #endregion
+    }
+
+    public void PlayStream()
+    {
+        WaterParticles.Play(false);
     }
 }
